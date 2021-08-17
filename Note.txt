@@ -1,0 +1,4 @@
+Dự kiến: 
+* Dùng docker chia làm 3 image
+- Database - nodejs :  DS đàn + DS khóa học => mysql | blog + user => mongodb (2 images)
+- UI : reactjs + material
